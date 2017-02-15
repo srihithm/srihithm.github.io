@@ -1809,7 +1809,8 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #323037;
+		background-color: #FFC107
+;
 		border-radius: 4px;
 		color: #ffffff !important;
 		border: 0;
@@ -1830,7 +1831,9 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #3e3c45;
+			background-color: #FF8F00
+
+;
 		}
 
 		input[type="submit"]:active,
@@ -1838,7 +1841,9 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #262429;
+			background-color: #FF8F00
+
+;
 		}
 
 		input[type="submit"].icon,
@@ -1934,7 +1939,8 @@
 			input[type="button"].alt.icon:before,
 			button.alt.icon:before,
 			.button.alt.icon:before {
-				color: #aaa;
+				color: #FF8F00
+;
 			}
 
 		input[type="submit"].special,
@@ -1951,7 +1957,8 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #1E88E5
+				background-color: #1565C0
+
 ;
 			}
 
@@ -1960,7 +1967,8 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #f21040;
+				background-color: #FF8F00
+;
 			}
 
 		@media screen and (max-width: 480px) {
