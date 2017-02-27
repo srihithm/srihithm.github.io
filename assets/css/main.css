@@ -1,11 +1,6 @@
 @import url(font-awesome.min.css);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
 
-/*
-	Spatial by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
 
 /* Reset */
 
@@ -1939,7 +1934,7 @@
 			input[type="button"].alt.icon:before,
 			button.alt.icon:before,
 			.button.alt.icon:before {
-				color: #FF8F00
+				color: #1E88E5
 ;
 			}
 
